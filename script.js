@@ -76,5 +76,9 @@ async function confirmCPF() {
   // Limpa o CPF e atualiza a exibição
   cpf = '';
   updateInput();
-}
 
+  // Timer para esconder a mensagem após 2 segundos
+  setTimeout(() => {
+    msgDiv.classList.add("hidden");
+  }, 2000);
+}
