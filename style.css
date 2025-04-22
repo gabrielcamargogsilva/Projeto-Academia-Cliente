@@ -1,0 +1,44 @@
+body {
+    background-color: #121212;
+    color: #ffffff;
+    font-family: 'Segoe UI', sans-serif;
+  }
+  
+  .catraca {
+    background: #1f1f1f;
+    border: 2px solid #00ff6a;
+    max-width: 400px;
+    width: 100%;
+  }
+  
+  input::placeholder {
+    color: #888;
+  }
+  
+  input {
+    background-color: #2a2a2a;
+    border: 1px solid #00ff6a;
+    color: white;
+  }
+  
+  .btn-success {
+    background-color: #00ff6a;
+    border: none;
+    color: black;
+    font-weight: bold;
+  }
+  
+  .btn-success:hover {
+    background-color: #00cc55;
+  }
+  
+  #mensagemAcesso {
+    width: 100%;
+    max-width: 400px;
+    font-size: 1.1rem;
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
