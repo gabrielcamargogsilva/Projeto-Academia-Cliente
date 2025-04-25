@@ -49,6 +49,9 @@ function updateInput() {
 async function confirmCPF() {
   const rawCpf = cpf;
   const msgDiv = document.getElementById("message");
+
+  msgDiv.innerHTML = ""; // limpa o conteúdo anterior
+  msgDiv.className = ""; // reseta as classes antigas
   msgDiv.classList.remove("hidden");
 
   try {
