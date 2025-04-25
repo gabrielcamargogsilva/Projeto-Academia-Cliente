@@ -38,6 +38,9 @@ Durante o desenvolvimento desta interface, foram aprofundados conhecimentos em:
 - Integração com APIs externas para validação de dados
 - Criação de interfaces responsivas com TailwindCSS
 
+## Acesse na Vercel
+**Vercel:** [https://projeto-academia-cliente.vercel.app](https://projeto-academia-cliente.vercel.app)
+
 ## Acesse a Catraca Virtual
 **Vercel:** [https://projeto-academia-cliente.vercel.app](https://projeto-academia-cliente.vercel.app)  
 **Repositório GitHub:** [https://github.com/gabrielcamargogsilva/Projeto-Academia-Cliente.git](https://github.com/gabrielcamargogsilva/Projeto-Academia-Cliente.git)
